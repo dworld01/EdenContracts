@@ -133,7 +133,7 @@ Eden Token (EDN) is poised to be a key player in the TRON DeFi ecosystem. Levera
 ---
 
 ## Join the Community
-- Website: [Coming Soon]
-- Telegram: [Coming Soon]
-- Twitter: [Coming Soon]
-- GitHub: [Coming Soon]
+- Website: https://edenwallet.app
+- Telegram: t.me/@tron_heist
+- Twitter: @TronHeist
+- GitHub: https://github.com/dworld01/EdenContracts
